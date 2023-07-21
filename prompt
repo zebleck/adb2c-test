@@ -1,0 +1,11 @@
+Build a basic React application with Azure AD B2C integration. 
+
+The application should include the following features:
+1. User registration: New users should be able to register with an email and password.
+2. User login: Existing users should be able to log in with their email and password.
+3. User logout: Logged-in users should be able to log out.
+4. Secure page: There should be at least one page that requires the user to be logged in to access. If a user is not logged in, they should be redirected to the login page.
+
+The Azure AD B2C integration should adhere to best practices for secure user authentication and access control. Please include detailed comments in the code to explain how each part of the Azure AD B2C integration works.
+
+For simplicity, the user interface can be minimal. The focus is on the functionality and the integration of Azure AD B2C.
